@@ -1,0 +1,34 @@
+.car-data {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding-left: 20px;
+	padding-right: 20px;
+	height: 70vh;
+	width: calc(100vw - 40px);
+	background: black;
+}
+.brand-logo {
+	margin-top: 12vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 50vh;
+	width: 100vw;
+	background: #202020;
+}
+.car-img {
+	height: 250px;
+	width: 95vw;
+}
+.car-explaination {
+	height: 50vh;
+	width: calc(100vw - 40px);
+	background: #202020;
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
